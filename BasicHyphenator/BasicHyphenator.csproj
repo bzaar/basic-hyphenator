@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <PackageId>Morpher.Russian.BasicHyphenator</PackageId>
     <RootNamespace>Morpher.Russian</RootNamespace>
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>10</LangVersion>
