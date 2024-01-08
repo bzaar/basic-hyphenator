@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <PackageId>Morpher.Russian.BasicHyphenator</PackageId>
+    <AssemblyName>Morpher.Russian.BasicHyphenator</AssemblyName>
     <RootNamespace>Morpher.Russian</RootNamespace>
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>10</LangVersion>
